@@ -1,11 +1,3 @@
-"""
--Power ups (power downs)
--High score
-
-~5.3 hours of coding
-
-"""
-
 import pygame
 import sys
 import random
